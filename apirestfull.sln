@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apirestfull", "apirestfull\apirestfull.csproj", "{FC0DD8CA-04FF-43D8-AE82-EA95B5F4864A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC0DD8CA-04FF-43D8-AE82-EA95B5F4864A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0DD8CA-04FF-43D8-AE82-EA95B5F4864A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0DD8CA-04FF-43D8-AE82-EA95B5F4864A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0DD8CA-04FF-43D8-AE82-EA95B5F4864A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B305E58C-F1F6-4413-94C8-5BBA64D3D515}
+	EndGlobalSection
+EndGlobal
